@@ -1,7 +1,7 @@
 # Linear-Regression
 Project Name: Housing Price Prediction;
 
-Tool: R - programming;
+Tool: R-Programming;
 
 Modelling Technique: Linear Regression;
 
